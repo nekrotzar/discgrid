@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3a0994a2b3d594bbd9b7c43c418c2e32
+timeCreated: 1527102801
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - diskType: {fileID: 11400000, guid: cec67cafd09527a45a893494b4a01dee, type: 2}
+  - fpsCamera: {instanceID: 0}
+  - player: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
